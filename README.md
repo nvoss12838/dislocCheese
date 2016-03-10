@@ -1,6 +1,8 @@
 # dislocCheese
 Dislocation in Cheeses 
 
+Who cut the cheese?
+
 What is the proper dislocation theory for Cheeses?
 
 What is the role of rheology?
